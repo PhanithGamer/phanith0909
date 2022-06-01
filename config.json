@@ -1,6 +1,6 @@
 {
-	"ip":"AngkorMCKH.aternos.me",
-	"port": 60287,
+	"ip":"AngkorMCKH.aternos.me:60278",
+	"port": 60278,
 	"name": "afkbot1",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
